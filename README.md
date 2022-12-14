@@ -7,13 +7,13 @@ Testing app: https://todomvc.com/examples/jquery/#/all
 
 ## Technologies:
 - Robot Framework
-- Selenium library
+- Selenium Library
 
 
 ## How to start:
 1. Clone this repository.
 
 ```
-git 
+git clone https://github.com/piotrmielkeQA/RobotFramework_Selenium.git
 ```
 2. Import project to Visual Studio Code or IDE.

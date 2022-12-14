@@ -1,10 +1,13 @@
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40yasinbulgan%2Ftest-otomasyonu-robot-framework-3f3afaf3f4f4&psig=AOvVaw1kaqX7KrmJ-X9mwratPDUn&ust=1671098123292000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjXq-Lr-PsCFQAAAAAdAAAAABAI)
+![This is an image](https://miro.medium.com/max/640/1*wnMQPTmEsIq0TiRgfX4hig.webp)
 
 ## Introduction
-Sample tests are written in Robot Framework with Selenium library. A repository was established during the course.
+Sample tests are written in Robot Framework with Selenium Library. This repository provides an introduction to good practices and examples to make automated tests easy to maintain.
+
+Testing app: https://todomvc.com/examples/jquery/#/all
 
 ## Technologies:
 - Robot Framework
+- Selenium library
 
 
 ## How to start:
@@ -13,4 +16,4 @@ Sample tests are written in Robot Framework with Selenium library. A repository 
 ```
 git 
 ```
-3. Import project to Visual Studio Code or IDE.
+2. Import project to Visual Studio Code or IDE.

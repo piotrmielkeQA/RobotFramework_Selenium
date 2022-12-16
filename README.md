@@ -6,8 +6,9 @@ Sample tests are written in Robot Framework with Selenium Library. This reposito
 Testing app: https://todomvc.com/examples/jquery/#/all
 
 ## Technologies:
-- Robot Framework
-- Selenium Library
+- Robot Framework: https://robotframework.org/
+- Selenium Library: https://github.com/robotframework/SeleniumLibrary/
+- Faker
 
 
 ## How to start:

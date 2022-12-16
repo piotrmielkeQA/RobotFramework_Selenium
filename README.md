@@ -8,8 +8,12 @@ Testing app: https://todomvc.com/examples/jquery/#/all
 ## Technologies:
 - [Robot Framework](https://robotframework.org/)
 - [Selenium Library](https://github.com/robotframework/SeleniumLibrary/)
-- [Faker](https://github.com/DiUS/java-faker)
+- [Faker Library](https://github.com/DiUS/java-faker)
 
+##Test cases
+1. Creation todo 
+2. Complete todo
+3. Delete todo 
 
 ## How to start:
 1. Clone this repository.

@@ -10,7 +10,7 @@ Testing app: https://todomvc.com/examples/jquery/#/all
 - [Selenium Library](https://github.com/robotframework/SeleniumLibrary/)
 - [Faker Library](https://github.com/DiUS/java-faker)
 
-##Test cases
+## Test cases:
 1. Creation todo 
 2. Complete todo
 3. Delete todo 

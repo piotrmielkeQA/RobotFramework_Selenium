@@ -1,0 +1,9 @@
+{"level":30,"time":"2022-12-13T09:49:40.764Z","pid":23108,"hostname":"ATN1248","msg":"Listening on 50000"}
+{"level":30,"time":"2022-12-13T09:49:40.931Z","pid":23108,"hostname":"ATN1248","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-13T09:49:40.932Z","pid":23108,"hostname":"ATN1248","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-13T09:49:40.934Z","pid":23108,"hostname":"ATN1248","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-13T09:49:40.934Z","pid":23108,"hostname":"ATN1248","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-13T09:49:40.942Z","pid":23108,"hostname":"ATN1248","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-13T09:49:40.942Z","pid":23108,"hostname":"ATN1248","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-13T09:49:40.944Z","pid":23108,"hostname":"ATN1248","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-13T09:49:40.944Z","pid":23108,"hostname":"ATN1248","msg":"End of node method getBrowserCatalog"}
